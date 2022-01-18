@@ -5,3 +5,6 @@
 
 ## [0.0.2] - 2022-01-18
 - Removing unused "path-intellisense", updating README and updating package logo
+
+## [0.0.2 - 0.0.4] - 2022-01-18
+- Trying to find the right Logo to use 🥴
