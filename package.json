@@ -1,8 +1,8 @@
 {
     "name": "arm-developer-toolkit",
-    "displayName": "ARM Developer Toolkit",
+    "displayName": "ARM Developer Extension Pack",
     "description": "Useful VScode extensions for developing ARM MCU based projects",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "repository": "https://github.com/glassboard-dev/vscode-ext-arm-developer-toolkit",
     "publisher": "Glasslabs",
     "icon": "images/glassboard_g_128x128.png",
