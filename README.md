@@ -8,5 +8,6 @@ Collection of useful VScode extensions for developing ARM MCU projects with feat
 - TODO: Syntax Highlighting
 - Linkerscript syntax highlighting
 - Built in Hex editor
-- Markdown preview
 - PDF viewer
+
+Take a look at our [ARM VSCode/CMake Template](https://github.com/glassboard-dev/gl-vscode-template-arm) to help you getting started faster on your next ARM based project!
