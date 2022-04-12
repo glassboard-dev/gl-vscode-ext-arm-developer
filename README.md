@@ -9,5 +9,9 @@ Collection of useful VScode extensions for developing ARM MCU projects with feat
 - Linkerscript syntax highlighting
 - Built in Hex editor
 - PDF viewer
+- Ceedling Test Suite
+    - Ceedling Test Explorer
+    - Test Adapter Converter
+    - Test Explorer UI
 
 Take a look at our [ARM VSCode/CMake Template](https://github.com/glassboard-dev/gl-vscode-template-arm) to help you getting started faster on your next ARM based project!
